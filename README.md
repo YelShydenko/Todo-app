@@ -22,7 +22,7 @@ git clone https://github.com/YelShydenko/Todo-app.git
 npm install
 ```
 
-5. In project terminal run project and use link 
+3. In project terminal run project and use link 
 
 ```bash
 npm run dev
